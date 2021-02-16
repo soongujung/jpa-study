@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e074d48-ed9e-4f93-9bf2-b6357ef4e152" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/src/main/java/io/study/jpa/manytooneoneway/ManyToOneOnewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/src/main/java/io/study/jpa/manytooneoneway/erd/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/src/main/java/io/study/jpa/manytooneoneway/erd/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/src/test/java/io/study/jpa/manytooneoneway/ManyToOneOnewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-oneway/src/test/java/io/study/jpa/manytooneoneway/erd/entity/ManyToOne_OneWayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/study/jpa/manytoonetwoway/ManyToOneTwowayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/study/jpa/manytoonetwoway/erd/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/study/jpa/manytoonetwoway/erd/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/study/jpa/manytoonetwoway/ManyToOneTwowayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/study/jpa/manytoonetwoway/erd/entity/ManyToOne_TwoWayTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/.m2/sgjung-repository" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/sgjung-settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1oPG0FlecWU75ndi4pACVHFHq9g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.ManyToOne_TwoWayTest.testInsert1">
+    <configuration name="ManyToOne_TwoWayTest.testInsert1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="many-to-one-twoway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.study.jpa.manytoonetwoway.erd.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.study.jpa.manytoonetwoway.erd.entity" />
+      <option name="MAIN_CLASS_NAME" value="io.study.jpa.manytoonetwoway.erd.entity.ManyToOne_TwoWayTest" />
+      <option name="METHOD_NAME" value="testInsert1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyToOneTwowayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="many-to-one-twoway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.study.jpa.manytoonetwoway.ManyToOneTwowayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManyToOne_TwoWayTest.testInsert1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e074d48-ed9e-4f93-9bf2-b6357ef4e152" name="Default Changelist" comment="" />
+      <created>1613180586515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613180586515</updated>
+      <workItem from="1613180589046" duration="4304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1173" height="443" key="GridCell.Tab.0.bottom" timestamp="1613193189423">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1173" height="443" key="GridCell.Tab.0.bottom/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613193189423" />
+    <state width="1173" height="443" key="GridCell.Tab.0.center" timestamp="1613193189422">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1173" height="443" key="GridCell.Tab.0.center/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613193189422" />
+    <state width="1173" height="443" key="GridCell.Tab.0.left" timestamp="1613193189422">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1173" height="443" key="GridCell.Tab.0.left/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613193189422" />
+    <state width="1173" height="443" key="GridCell.Tab.0.right" timestamp="1613193189423">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1173" height="443" key="GridCell.Tab.0.right/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613193189423" />
+    <state x="2323" y="44" key="SettingsEditor" timestamp="1613180620934">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state x="2323" y="44" key="SettingsEditor/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613180620934" />
+  </component>
+</project>

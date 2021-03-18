@@ -15,12 +15,12 @@ import org.hibernate.annotations.CacheConcurrencyStrategy;
 @Getter
 @Cacheable
 @Cache(region = CacheConfig.DB_CACHE, usage = CacheConcurrencyStrategy.READ_ONLY)
-public class Customer {
+public class Employee {
 
 	@Id @GeneratedValue
 	@Column(name = "id")
-	private Long customerId;
+	private Long empId;
 
 	@Column(name = "name")
-	private String customerName;
+	private String name;
 }

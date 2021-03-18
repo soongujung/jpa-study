@@ -1,6 +1,6 @@
 package io.jpastudy.ehcache.config;
 
-import io.jpastudy.ehcache.web.CustomerDto;
+import io.jpastudy.ehcache.web.EmployeeDto;
 import java.time.Duration;
 import org.ehcache.config.builders.CacheConfigurationBuilder;
 import org.ehcache.config.builders.ExpiryPolicyBuilder;
@@ -46,8 +46,8 @@ public class CacheConfig {
 
 		ResourcePoolsBuilder memoryPoolBuilder = ResourcePoolsBuilder.newResourcePoolsBuilder().heap(10000, EntryUnit.ENTRIES);
 
-		CacheConfigurationBuilder<Long, CustomerDto> cacheConfigBuilder = CacheConfigurationBuilder
-			.newCacheConfigurationBuilder(Long.class, CustomerDto.class, memoryPoolBuilder);
+		CacheConfigurationBuilder<Long, EmployeeDto> cacheConfigBuilder = CacheConfigurationBuilder
+			.newCacheConfigurationBuilder(Long.class, EmployeeDto.class, memoryPoolBuilder);
 
 		cacheConfigBuilder
 			.withSizeOfMaxObjectSize(1000, MemoryUnit.B)

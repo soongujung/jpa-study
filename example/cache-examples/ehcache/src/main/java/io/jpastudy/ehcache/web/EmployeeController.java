@@ -9,19 +9,19 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @Slf4j
-public class CustomerController {
+public class EmployeeController {
 
-	private final CustomerService customerService;
+	private final EmployeeService employeeService;
 
 	@Autowired
-	public CustomerController(CustomerService customerService){
-		this.customerService = customerService;
+	public EmployeeController(EmployeeService employeeService){
+		this.employeeService = employeeService;
 	}
 
-	@GetMapping("/customers/{id}")
+	@GetMapping("/employees/{id}")
 	@ResponseBody
-	public CustomerDto getCustomer(@PathVariable Long id){
-		log.info("======= Controller");
-		return customerService.getCustomer(id);
+	public EmployeeDto getEmployeeById(@PathVariable Long id){
+		log.info("======= EmployeeController");
+		return employeeService.findEmployee(id);
 	}
 }

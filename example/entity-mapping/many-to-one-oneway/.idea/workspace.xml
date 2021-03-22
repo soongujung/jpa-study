@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1d3b156-a35c-4a85-b376-45c21ad8e4f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b2777de41a9573fb7bbf8bd5a905f9346c4ed96" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5fbecffe460f5530a902f89e55f4a79972b8ce03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a080dee08c52577e2eba3294de90751b40719ef9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5e73a6c5e827664d1f09cdcf793ce1517413407" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/many-to-one-oneway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/study/jpa/manytooneoneway/ManyToOneOnewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/study/jpa/manytooneoneway/erd/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/study/jpa/manytooneoneway/erd/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/study/jpa/manytooneoneway/ManyToOneOnewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/study/jpa/manytooneoneway/erd/entity/ManyToOne_OneWayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/study/jpa/manytooneoneway/ManyToOneOnewayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/study/jpa/manytooneoneway/erd/entity/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/io/study/jpa/manytooneoneway/erd/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/io/study/jpa/manytooneoneway/ManyToOneOnewayApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/io/study/jpa/manytooneoneway/erd/entity/ManyToOne_OneWayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_27_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_aop_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_beans_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_context_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_core_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_expression_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_orm_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_test_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_springframework_spring_tx_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/sonarlint/issuestore/2/b/2b35e98c166c2ba5310e8e579fd5f13aeba70364" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/sonarlint/issuestore/4/a/4ae55d7bec0e7448e11d75e39d0d6295bf2749bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/sonarlint/issuestore/e/1/e166d7a49ee56e48c28b093430c000d2b6105d7c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/many-to-one-twoway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/src/main/java/io/study/jpa/manytoonetwoway/ManyToOneTwowayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/src/main/java/io/study/jpa/manytoonetwoway/erd/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/src/main/java/io/study/jpa/manytoonetwoway/erd/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/src/test/java/io/study/jpa/manytoonetwoway/ManyToOneTwowayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/src/test/java/io/study/jpa/manytoonetwoway/erd/entity/ManyToOne_TwoWayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/target/classes/io/study/jpa/manytoonetwoway/ManyToOneTwowayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/target/classes/io/study/jpa/manytoonetwoway/erd/entity/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/target/classes/io/study/jpa/manytoonetwoway/erd/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/target/test-classes/io/study/jpa/manytoonetwoway/ManyToOneTwowayApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../many-to-one-twoway/target/test-classes/io/study/jpa/manytoonetwoway/erd/entity/ManyToOne_TwoWayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/summary/entity-mapping/MANY-TO-ONE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/summary/entity-mapping/OVERVIEW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/summary/entity-mapping/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/summary/entity-mapping/img/N-1-ERD-EMPLOYEE_DEPARTMENT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/summary/entity-mapping/img/N-1-ORM-EXAMPLE-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/summary/entity-mapping/img/N-1-ORM-EXAMPLE-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/summary/entity-mapping/img/N-1-ORM-EXAMPLE-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../study/summary/entity-mapping/img/N-1-ORM-EXAMPLE-4.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/sgjung-settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1oO65t4IER2Z17PTZqh1YcrnoXv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.ManyToOne_OneWayTest.testInsert2">
+    <configuration name="ManyToOne_OneWayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="many-to-one-oneway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.study.jpa.manytooneoneway.erd.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.study.jpa.manytooneoneway.erd.entity" />
+      <option name="MAIN_CLASS_NAME" value="io.study.jpa.manytooneoneway.erd.entity.ManyToOne_OneWayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyToOne_OneWayTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="many-to-one-oneway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.study.jpa.manytooneoneway.erd.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.study.jpa.manytooneoneway.erd.entity" />
+      <option name="MAIN_CLASS_NAME" value="io.study.jpa.manytooneoneway.erd.entity.ManyToOne_OneWayTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyToOne_OneWayTest.testInsert2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="many-to-one-oneway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.study.jpa.manytooneoneway.erd.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.study.jpa.manytooneoneway.erd.entity" />
+      <option name="MAIN_CLASS_NAME" value="io.study.jpa.manytooneoneway.erd.entity.ManyToOne_OneWayTest" />
+      <option name="METHOD_NAME" value="testInsert2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyToOneOnewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="many-to-one-oneway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.study.jpa.manytooneoneway.ManyToOneOnewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManyToOne_OneWayTest.testInsert2" />
+        <item itemvalue="JUnit.ManyToOne_OneWayTest" />
+        <item itemvalue="JUnit.ManyToOne_OneWayTest.testInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1d3b156-a35c-4a85-b376-45c21ad8e4f0" name="Default Changelist" comment="" />
+      <created>1613145109610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613145109610</updated>
+      <workItem from="1613145115268" duration="2759000" />
+      <workItem from="1613147921078" duration="253000" />
+      <workItem from="1613180146854" duration="711000" />
+      <workItem from="1613180925961" duration="2849000" />
+      <workItem from="1613513529170" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1613145808792">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="606" y="126" key="#com.intellij.ide.util.MemberChooser/0.23.1680.976@0.23.1680.976" timestamp="1613145808792" />
+    <state width="944" height="293" key="GridCell.Tab.0.bottom" timestamp="1613193189430">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1628" height="405" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1613148048566" />
+    <state width="1079" height="405" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1613148173919" />
+    <state width="944" height="293" key="GridCell.Tab.0.bottom/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613193189430" />
+    <state width="944" height="293" key="GridCell.Tab.0.center" timestamp="1613193189430">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1628" height="405" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1613148048565" />
+    <state width="1079" height="405" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1613148173918" />
+    <state width="944" height="293" key="GridCell.Tab.0.center/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613193189430" />
+    <state width="944" height="293" key="GridCell.Tab.0.left" timestamp="1613193189430">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1628" height="405" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1613148048565" />
+    <state width="1079" height="405" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1613148173918" />
+    <state width="944" height="293" key="GridCell.Tab.0.left/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613193189430" />
+    <state width="944" height="293" key="GridCell.Tab.0.right" timestamp="1613193189430">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1628" height="405" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1613148048565" />
+    <state width="1079" height="405" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1613148173918" />
+    <state width="944" height="293" key="GridCell.Tab.0.right/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613193189430" />
+    <state x="254" y="23" key="SettingsEditor" timestamp="1613147939019">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="254" y="23" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1613147939019" />
+    <state x="2125" y="206" width="1165" height="625" key="new project wizard" timestamp="1613180585904">
+      <screen x="1680" y="23" width="1920" height="1001" />
+    </state>
+    <state x="2125" y="206" width="1165" height="625" key="new project wizard/1680.23.1920.1001/0.23.1680.1027@1680.23.1920.1001" timestamp="1613180585904" />
+  </component>
+</project>

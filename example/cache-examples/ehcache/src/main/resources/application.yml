@@ -1,0 +1,46 @@
+spring:
+  profiles:
+    active: testdocker
+server:
+  port: 80
+---
+spring:
+  config:
+    activate:
+      on-profile: testdocker
+
+  datasource:
+    url: jdbc:mariadb://localhost:39907/codingtest
+    username: root
+    password: 1111
+    initialization-mode: always
+#    schema: classpath*:database/testdocker/schema.sql
+    data: classpath*:database/testdocker/data.sql
+
+    hikari:
+      auto-commit: true
+
+  jpa:
+    properties:
+      javax:
+        persistence:
+          sharedcache:
+            mode: ENABLE_SELECTIVE
+      hibernate:
+        cache:
+          use_second_level_cache: true
+          region:
+            factory_class: org.hibernate.cache.jcache.internal.JCacheRegionFactory
+        temp:
+          use_jdbc_metadata_defaults: false
+        format_sql: true
+        show_sql: true
+        use_sql_comments: true
+
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+
+logging.level:
+  org.hibernate.SQL: debug
+
